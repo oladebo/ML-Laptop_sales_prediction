@@ -18,7 +18,7 @@ by using laptop dataset is continuous in nature.
 - H. Perform prediction on test publish_display_data
 - I. Evaluating the Algorithms
 - J. Saved the Model
-- L. Stramlit 
+- L. Streamlit 
 
 ## Installation of the Packages
 - Create a virtual Environment
